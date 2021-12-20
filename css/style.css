@@ -1,0 +1,30 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #688A08;
+}
+
+.quem-somos {
+    background-color: #8181F7;
+    color: white;
+}
+
+.quem-img {
+    width: 400px;
+    height: 400px;
+}
+
+.parceiros {
+    background-color: #000;
+    color: #fff;
+}
+
+.img-full {
+    width: 100%;
+}
+
+.bg-footer {
+    background-color: #688A08;
+}

@@ -1,2 +1,2 @@
 # aula-bootstrap
-Utilizando bootsrap
+Testando as classes e documentos (CSS) do bootstrap
